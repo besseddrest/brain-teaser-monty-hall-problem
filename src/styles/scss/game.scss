@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  // color: red;
+}
+
+.stage {
+  display: flex;
+  gap: 2rem;
+}
+
+.door {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width: 270px;
+  height: 400px;
+  color: white;
+  font-weight: bold;
+  font-size: 3rem;
+  background: brown;
+  border-radius: .5rem;
+}
